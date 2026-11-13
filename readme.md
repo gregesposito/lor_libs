@@ -1,3 +1,8 @@
+> ### About this fork (gregesposito)
+> Lorand's shared libraries, required by **HealBot** (install to `Windower/addons/libs/lor/`). This fork follows PBW's version, with one extra change in `lor_actor.lua` (Oct 2023): action IDs 363/364 are remapped to **Sleepga (273) / Sleepga II (274)**, so those casts are tracked correctly.
+
+---
+
 # Libraries for addons written by Lorand
 
 These contain functions that I use frequently in multiple addons that I have
